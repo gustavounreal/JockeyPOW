@@ -1,0 +1,44 @@
+# ===== Android / Gradle =====
+*.iml
+.gradle/
+build/
+/local.properties
+local.properties
+/captures
+.externalNativeBuild
+.cxx/
+.kotlin/
+
+# ===== IntelliJ / Android Studio =====
+# Se projeto solo, descomente a linha abaixo e apague as linhas /.idea/*
+# .idea/
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# ===== Artefatos de build =====
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+*.log
+*.hprof
+
+# ===== Assinatura (NUNCA commitar) =====
+*.jks
+*.keystore
+!debug.keystore
+
+# ===== Segredos =====
+.env
+.env.*
+# app/google-services.json   # descomente se usar Firebase sensível
+
+# ===== Sistema operacional =====
+.DS_Store
+Thumbs.db
+desktop.ini

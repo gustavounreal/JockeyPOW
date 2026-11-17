@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JockeyPOW</string>
+    <string name="resultado_inicial">Resultado</string>
+    <string name="placar_inicial">Vitórias: 0 | Derrotas: 0 | Empates: 0</string>
+    <string name="placar">Vitórias: %1$d | Derrotas: %2$d | Empates: %3$d</string>
+    <string name="resultado_vitoria">Você ganhou :)</string>
+    <string name="resultado_derrota">Você perdeu :(</string>
+    <string name="resultado_empate">Empatou :|</string>
+    <string name="escolha_pedra">Escolher pedra</string>
+    <string name="escolha_papel">Escolher papel</string>
+    <string name="escolha_tesoura">Escolher tesoura</string>
+    <string name="escolha_computador">Escolha do computador</string>
+</resources>
