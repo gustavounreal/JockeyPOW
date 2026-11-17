@@ -1,5 +1,10 @@
 # JockeyPOW
 
+[![Java](https://img.shields.io/badge/Java-8-ED8B00?logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Android](https://img.shields.io/badge/Android-API%2034-3DDC84?logo=android&logoColor=white)](https://developer.android.com/)
+[![Gradle](https://img.shields.io/badge/Gradle-8.4-02303A?logo=gradle&logoColor=white)](https://gradle.org/)
+[![JUnit](https://img.shields.io/badge/Testes-JUnit%204-25A162?logo=junit5&logoColor=white)](https://junit.org/junit4/)
+
 Aplicativo Android simples de pedra, papel e tesoura, desenvolvido em Java.
 
 ## Objetivo
